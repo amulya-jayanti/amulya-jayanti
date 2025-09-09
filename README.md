@@ -65,8 +65,8 @@ In my GitHub, you’ll find projects on:
 ## 📈 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmulyaJayanti&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmulyaJayanti&layout=compact&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=amulya-jayanti&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amulya-jayanti&layout=compact&theme=radical" height="165"/>
 </p>
 
 <p align="center">
@@ -78,12 +78,21 @@ In my GitHub, you’ll find projects on:
 ## 🌐 Connect With Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/amulya-jayanti/"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-  <a href="mailto:jayanthi.amulya@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40"/></a>
+  <a href="https://www.linkedin.com/in/amulya-jayanti/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="30" />
+  </a> 
+  <b>LinkedIn:</b> Let’s connect professionally and talk data, AI, or research!  
+  <br><br>
+  
+  <a href="mailto:amulya.jayanti@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30"/>
+  </a> 
+  <b>Email:</b> Open to any Data Scientist/ Machine Learning Engineer opportunities! 
+  <br><br>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <em>“I bring together a product mindset and deep technical skills - turning complex data and AI challenges into practical, high-impact solutions.”</em> 🚀
 </p>
