@@ -1,6 +1,6 @@
 <!-- Banner / Greeting -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hello%20👋%2C%20I'm%20Amulya%20Jayanti!&fontSize=35&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hello%20👋m%20Amulya%20Jayanti!&fontSize=35&animation=fadeIn&fontAlignY=35" />
 </p>
 
 ---
